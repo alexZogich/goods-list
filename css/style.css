@@ -1,0 +1,15 @@
+.delGood {
+	float: right;
+	margin-top: 3px;
+}
+
+div#goodsContainer li {
+	list-style-type: none;
+	width: 230px;
+	padding: 5px 5px;
+	font: 14px Arial;
+}
+
+.delGood {
+	display: none;
+}
